@@ -61,7 +61,7 @@ img {
   display: grid;
   grid-template-columns: 2fr 32%;
   gap: 1rem;
-  row-gap: .3rem;
+  row-gap: 0rem;
   margin-bottom: 5.6rem;
 }
 
@@ -144,7 +144,7 @@ img {
 footer p {
   color: var(--gray-color);
   font-size: 0.8rem;
-  transform: translateY(-0.5rem);
+  transform: translateY(-0.6rem);
 }
 
 
